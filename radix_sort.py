@@ -2,7 +2,7 @@ from random import randrange, randint
 
 
 # generating up to 20 random numbers(0-1000) so there's something to sort
-data = [randint(0, 10) for item in range(randrange(20))]
+data = [randint(0, 1000) for item in range(randrange(20))]
 print(f'Generated {len(data)} random numbers: {data}')
 
 
