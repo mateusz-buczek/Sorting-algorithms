@@ -1,4 +1,4 @@
-# Sorting-algorithms
+# Sorting-algorithms 
 Practicing algorithms. Started with bubble sort. 
 # Technologies 
 * Python 3.7.2
